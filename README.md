@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # From Playlists to Predictions: Understanding Churn in Sparkify
 
 ## Table of Contents
@@ -43,7 +44,10 @@ Number of Friends Added
 Average Session Duration
 
 ## Acknowledgments<a name="Acknowledgments"></a>
-I would like to thank Udacity for this amazing project and the dataset. You can find the Licensing for the data and other descriptive information at the Udacity link available here. Otherwise, feel free to use the code here as you would like!
+I would like to thank Udacity[https://www.udacity.com/] for this amazing project and the dataset. You can find the Licensing for the data and other descriptive information at the Udacity link available here[https://www.udacity.com/]. Otherwise, feel free to use the code here as you would like!
 
 
-
+=======
+# Final_Capstone_Udc
+Final_Capstone_Udc
+>>>>>>> 4942d199e7b60762116856c219ee88b823780405
